@@ -8,7 +8,7 @@ Behind this passion is our historic commitment to the Gospel of Christ and the W
 
 ## This repository
 
-This repo holds assets for the organization's static site
+This repo holds assets for the organization's WordPress site
 
 
 
